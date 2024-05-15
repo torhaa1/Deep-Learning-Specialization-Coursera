@@ -37,7 +37,7 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
     - [Assignment 2](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C1-NeuralNetworksAndDeepLearning/week4/W4A2)
 
 
-[Certificate Of Completion](https://coursera.org/share/4caf3ba6bf59e2fa26d469aa147a8a0c)
+
 <hr/>
 
 ## Course 2 : [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C2-Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization)
@@ -61,7 +61,7 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
     - [Lectures](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C2-Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/week3/lectures)
     - [Assignment 1](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C2-Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/week3/programming%20assignments/W3A1)
 
-[Certificate Of Completion](https://coursera.org/share/613fdc81246090f08c019158a91cfe06)
+
 
 <hr/>
 
@@ -71,7 +71,7 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 
 - [<b> Week 2 - Lectures </b>](https://github.com/greyhatguy007/deep-learning-specialization/tree/main/C3-Structuring%20Machine%20Learning%20Projects/week2)
 
-[Certificate Of Completion](https://coursera.org/share/b411ec8b0970d0fed78456a4c3accfbd)
+
 
 <hr/>
 
@@ -108,7 +108,7 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
   - [Assignment 1](/C4-Convolutional%20Neural%20Networks/week4/C4W4A1/)
   - [Assignment 2](/C4-Convolutional%20Neural%20Networks/week4/C4W4A2/)
 
-[Certificate Of Completion](https://coursera.org/share/4116ca69a9b3037a7d2f8d748e8eca08)
+
 
 <hr/>
 
@@ -139,9 +139,4 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
   - [Lectures](https://github.com/greyhatguy007/deep-learning-specialization/blob/1503d780cae29992a57c93eebbf42199c72df388/C5-sequence-models/week4/notes)
   - [Assignment](https://github.com/greyhatguy007/deep-learning-specialization/blob/1503d780cae29992a57c93eebbf42199c72df388/C5-sequence-models/week4/C5W4A1)
 
-[Certificate of Completion](https://coursera.org/share/e91e1f6306e92fcf4bd4bba4adcdba4e)
-
-
-
-### [Specialization Certificate](https://coursera.org/share/246725a1fc73a1de593281f6f2de65b5)
 ###### Credits : Respective Sources
